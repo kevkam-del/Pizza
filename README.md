@@ -8,6 +8,6 @@
 <h2>Special Thanks</h2>
 
 <ul>
-<li>"Chegg Skills"</li>
+<li>Chegg Skills</li>
 <li><a href="https://github.com/jennythinkful">jennythinkful</li>
 </ul>
