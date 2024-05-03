@@ -9,5 +9,5 @@
 
 <ul>
 <li>"Chegg Skills"</li>
-<li><a href="https://github.com/jennythinkful"> JennyThinkful</li>
+<li><a href="https://github.com/jennythinkful">jennythinkful</li>
 </ul>
